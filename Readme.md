@@ -83,6 +83,10 @@ Request body:
 }
 ```
 
+![image](https://github.com/user-attachments/assets/eb0da847-7718-48c6-998d-0e47691512ae)
+![image](https://github.com/user-attachments/assets/657439d6-e9a9-46af-8ded-793daf88ca52)
+
+
 ### **2. Make a Reservation**
 **POST** `/restaurants/reserve`
 
@@ -94,6 +98,8 @@ Request body:
   "time": "2024-12-01T19:30:00Z"
 }
 ```
+![image](https://github.com/user-attachments/assets/7e9aaea9-5484-4e46-803b-eac20b870e1c)
+![image](https://github.com/user-attachments/assets/1aa8f78e-a303-472f-8c1a-9763e1502b08)
 
 ---
 
@@ -154,4 +160,7 @@ describe("Restaurant Controller", () => {
   });
 });
 ```
+
+![image](https://github.com/user-attachments/assets/f98e5d7b-ed9b-4974-bdf9-50ec841956d1)
+
 
